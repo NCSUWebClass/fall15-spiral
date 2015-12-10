@@ -1,0 +1,17 @@
+.text{
+    text-align: center;
+    color: #FFFFFF;
+	font-size: 6vw;
+	word-break: break-all;
+}
+
+.text2{
+    text-align: center;
+    color: #FFFFFF;
+	font-size: 6vw;
+	word-break: break-all;
+}
+
+body {
+    background-color: #111111;
+}
