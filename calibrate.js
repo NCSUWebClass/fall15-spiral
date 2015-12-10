@@ -13,6 +13,6 @@ function handleDirChange(e){
   	}
 
   if(flag){
-	window.location.href = "http://www4.ncsu.edu/~epswartz/spiral/lv1/play.html";
+	window.location.href = "./lv1/play.html";
   }
 }
