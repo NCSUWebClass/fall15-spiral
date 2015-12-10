@@ -3,11 +3,11 @@
 window.addEventListener("deviceorientation", handleDirChange, true);
 
 setTimeout(function(){ 
-   window.location.href = "./desktop.html"; 
+   window.location.href = "./spiral/desktop.html"; 
 }, 3000);
 
 function handleDirChange(e){
   if(e.beta){
-	 window.location.href = "./welcome.html";
+	 window.location.href = "./spiral/welcome.html";
   }
 }
